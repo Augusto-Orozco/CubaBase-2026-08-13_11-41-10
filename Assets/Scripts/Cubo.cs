@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class Cubo : MonoBehaviour
+public class Cubo1 : MonoBehaviour
 {
     private InputAction _moveAction;
     private InputAction _jumpAction;
