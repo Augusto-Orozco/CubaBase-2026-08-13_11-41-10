@@ -501,6 +501,7 @@ GameObject:
   - component: {fileID: 1233491346}
   - component: {fileID: 1233491345}
   - component: {fileID: 1233491344}
+  - component: {fileID: 1233491348}
   m_Layer: 0
   m_Name: Pared2
   m_TagString: Untagged
@@ -601,6 +602,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1233491348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1233491343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a0de35e5e139f44aeeb8b0bdb424a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CambiarEscena
+  nombreEscena: EscenaNueva
 --- !u!1 &1333962729
 GameObject:
   m_ObjectHideFlags: 0
@@ -613,6 +627,7 @@ GameObject:
   - component: {fileID: 1333962732}
   - component: {fileID: 1333962731}
   - component: {fileID: 1333962730}
+  - component: {fileID: 1333962734}
   m_Layer: 0
   m_Name: Pared4
   m_TagString: Untagged
@@ -713,6 +728,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -91.286, z: 0}
+--- !u!114 &1333962734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333962729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a0de35e5e139f44aeeb8b0bdb424a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CambiarEscena
+  nombreEscena: EscenaNueva
 --- !u!1 &1421721074
 GameObject:
   m_ObjectHideFlags: 0
@@ -725,6 +753,7 @@ GameObject:
   - component: {fileID: 1421721077}
   - component: {fileID: 1421721076}
   - component: {fileID: 1421721075}
+  - component: {fileID: 1421721079}
   m_Layer: 0
   m_Name: Pared3
   m_TagString: Untagged
@@ -825,6 +854,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0.136, y: -91.514, z: -0.005}
+--- !u!114 &1421721079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421721074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a0de35e5e139f44aeeb8b0bdb424a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CambiarEscena
+  nombreEscena: EscenaNueva
 --- !u!1001 &1869259214
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -894,6 +936,7 @@ GameObject:
   - component: {fileID: 1977506383}
   - component: {fileID: 1977506382}
   - component: {fileID: 1977506381}
+  - component: {fileID: 1977506385}
   m_Layer: 0
   m_Name: Pared
   m_TagString: Untagged
@@ -994,6 +1037,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1977506385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1977506380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a0de35e5e139f44aeeb8b0bdb424a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CambiarEscena
+  nombreEscena: EscenaNueva
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
